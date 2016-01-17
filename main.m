@@ -1,7 +1,8 @@
 % main.m
 % This is a main script to simulate the boarding process.
 %
-% Boarding: step by step: A Cellular Automaton approach to optimising
+% Reference:
+% Boarding step by step: A Cellular Automaton approach to optimising
 % aircraft boarding time (Andreas Hafver, Chris Rohwer, Louise Viljoen)
 %
 % zhou lvwen: zhou.lv.wen@gmail.com
